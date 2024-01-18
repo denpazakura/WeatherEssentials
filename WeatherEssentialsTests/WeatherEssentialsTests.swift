@@ -2,7 +2,7 @@
 //  WeatherEssentialsTests.swift
 //  WeatherEssentialsTests
 //
-//  Created by Diana Komolova on 17/01/2024.
+//  Created by denpazakura on 17/01/2024.
 //
 
 import XCTest

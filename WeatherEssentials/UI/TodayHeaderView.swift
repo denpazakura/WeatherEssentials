@@ -23,7 +23,7 @@ struct TodayHeaderView: View {
 //        }
 
    //     return firstWeatherDetails.main
-        return "Rain"
+        return "clear sky"
     }
 
     var body: some View {
@@ -74,5 +74,5 @@ struct TodayHeaderView: View {
 }
 
 #Preview {
-    TodayHeaderView(day: "", color: "10n")
+    TodayHeaderView(day: "", color: "03d")
 }

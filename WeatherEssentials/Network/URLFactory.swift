@@ -2,7 +2,7 @@
 //  URLFactory.swift
 //  WeatherEssentials
 //
-//  Created by Diana Komolova on 18/01/2024.
+//  Created by denpazakura on 18/01/2024.
 //
 
 import Foundation
